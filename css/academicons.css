@@ -248,6 +248,12 @@
 .ai-jstor-square:before {
   content: "\e944";
 }
+.ai-lacuna:before {
+  content: "\e963";
+}
+.ai-lacuna-square:before {
+  content: "\e964";
+}
 .ai-lattes:before {
   content: "\e9b3";
 }

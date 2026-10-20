@@ -191,6 +191,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-lacuna ai-4x"></i>
+      lacuna
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-lattes ai-4x"></i>
       lattes
     </div>

@@ -143,8 +143,8 @@ layout: home
         <td></td>
         <td><span class="ai ai-elsevier ai-2x"></span></td>
         <td><span class="ai ai-zotero ai-2x"></span></td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-lacuna ai-2x"></span></td>
+        <td><span class="ai ai-lacuna-square ai-2x"></span></td>
         <td></td>
         <td><span class="ai ai-open-data ai-2x"></span></td>
         <td><span class="ai ai-open-data-square ai-2x"></span></td>
